@@ -1,0 +1,9 @@
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Properties.Resources.resources
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\Nikita\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
