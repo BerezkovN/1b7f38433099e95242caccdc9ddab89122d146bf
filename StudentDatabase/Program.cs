@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using StudentDatabase;
+using AuthorDatabase;
 
 public class Program
 {

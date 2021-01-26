@@ -1,0 +1,12 @@
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.MainForm.resources
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\bin\Debug\AuthorDatabase.exe.config
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\bin\Debug\AuthorDatabase.exe
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\bin\Debug\AuthorDatabase.pdb
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.Properties.Resources.resources
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.exe
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.pdb
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.AuthorForm.resources
+C:\Users\Nikita\source\repos\AuthorDatabase\StudentDatabase\obj\Debug\AuthorDatabase.BookForm.resources
